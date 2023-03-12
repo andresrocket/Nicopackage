@@ -3,4 +3,9 @@ public struct Nicopackage {
 
     public init() {
     }
+    
+    public static func gemir() {
+        print("Ohhh rico, rico!")
+    }
 }
+
